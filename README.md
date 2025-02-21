@@ -37,9 +37,6 @@ To embark on this real-time thread programming journey, follow these steps:
 
 The program's output provides a detailed view of the threads' execution timeline, including the precise moments when each thread starts and ends, the CPU on which each thread runs, and the execution time of each thread's workload. By comparing the results from different experiment cases, we can develop a deep understanding of how thread priority, scheduling policy, and CPU affinity impact real-time performance.
 
-## Contributing
-
-We welcome contributions from the community to enhance the project and expand its educational value. If you encounter any bugs or have ideas for improvements, please feel free to submit issues or pull requests. This project serves as an educational resource, and contributions that improve clarity or extend its capabilities are greatly appreciated.
 
 ## License
 
